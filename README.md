@@ -27,16 +27,3 @@ pip install qrcode[pil]
 4. Choose QR code and background colors.
 5. Decide whether to save the QR code as PNG or JPG.
 6. The QR code image will be saved in the same directory.
-
-## Example
-```sh
-Enter the text or URL for the QR code: https://example.com
-Enter the filename (or press Enter for default 'qrcode.png'): my_qr.png
-Enter the QR code color (default: black): blue
-Enter the background color (default: white): yellow
-Save as JPG instead of PNG? (yes/no, default: no): yes
-QR code saved as my_qr.jpg
-```
-
-## License
-This project is open-source and free to use.
